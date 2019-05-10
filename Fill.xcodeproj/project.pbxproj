@@ -28,6 +28,7 @@
 		3806ED4C2284B7F7000C1265 /* InputAccessoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputAccessoryView.swift; sourceTree = "<group>"; };
 		3806ED4F2284B841000C1265 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/InputAccessoryView.xib; sourceTree = "<group>"; };
 		9D35C5A02284FA4600F25788 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		9D35C5A52285090900F25788 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				9D35C59F2284FA3300F25788 /* extensions */,
 				9D35C5A42284FAAA00F25788 /* resources */,
 				3806ED46228383D3000C1265 /* Info.plist */,
+				9D35C5A52285090900F25788 /* README.md */,
 			);
 			path = Fill;
 			sourceTree = "<group>";
