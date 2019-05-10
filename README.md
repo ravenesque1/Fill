@@ -13,4 +13,4 @@ git clone https://github.com/ravenesque1/Fill.git
 cd Fill
 open Fill.xcworkspace
 ```
-Once the project is open, feel free to run.
+Once the project is open, feel free to run. It looks nice on the iPhone 5s or newer.
