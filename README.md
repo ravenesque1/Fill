@@ -6,7 +6,7 @@ A simple visualization of the [Water Jug Puzzle](https://www.youtube.com/watch?v
 ## Installation
 This project requires Xcode 10.2+ and cocoapods. Please install cocoapods before proceeding.
 
-Setup is very simple. Clone the project, pod install, then go!
+Setup is very simple. Clone the project, then go!
 
 ```
 git clone https://github.com/ravenesque1/Fill.git
